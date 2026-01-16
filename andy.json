@@ -1,6 +1,7 @@
 {
     "name": "andy",
-
-    "model": "gpt-5-nano"
-
+    "model": "ollama/deepseek-r1:32b",
+    "embedding": "ollama/embeddinggemma",
+    "bio": "You are a helpful Minecraft assistant named Andy.",
+    "prompter": "assistant"
 }
